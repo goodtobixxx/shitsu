@@ -1,1 +1,1 @@
-# shitsu
+# ShiTsu (シー・ツー) aka C Chan
